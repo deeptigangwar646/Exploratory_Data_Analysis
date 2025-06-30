@@ -1,0 +1,11 @@
+
+Summary of Titanic Dataset EDA:
+
+- Total Passengers in Training Set: 891
+- Survival Rate: 38.38%
+- Higher survival rates observed in:
+    - Females compared to males.
+    - Passengers in 1st class.
+    - Passengers who embarked from Cherbourg.
+- Age distribution is right-skewed, most passengers are between 20-40 years.
+- Higher fare seems to correlate with better survival chances.
